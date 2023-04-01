@@ -14,3 +14,4 @@ git push –u origin máster
 # Para baixar um repositório em um diretório vazio 
 git clone https://github.com/pbattistella/lista-tarefas-html-css-js-localstorage.git *após origin adicione o link do seu repositório no github 
 # Atualizar seus arquivos, baixando as novas funcionalidades  
+git pull
