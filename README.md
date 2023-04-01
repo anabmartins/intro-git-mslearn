@@ -5,7 +5,7 @@ git config --list
 git config --global use.name “nomeDoSeuUsuário” 
 git config –global use.email “seuemail@email.com” 
 # Crie um novo repositório no github 
-#Criando vínculo entre arquivos locais com o github 
+## Criando vínculo entre arquivos locais com o github 
 git init 
 git add . 
 git commit -m “uma mensagem” 
