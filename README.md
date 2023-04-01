@@ -1,4 +1,4 @@
-#Comandos GIT 
+# Comandos GIT 
 #verificar usuário global 
 git config --list 
 # definir usuário e email 
